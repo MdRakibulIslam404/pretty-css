@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+}
+
+small{
+    display: block;
+    color: blueviolet;
+    border-left: 6px dotted orangered;
+}
+
+P{
+    display: inline;
+}
+
+h3{
+    display: inline;
+}
